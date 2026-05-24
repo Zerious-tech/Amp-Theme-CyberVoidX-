@@ -14,7 +14,7 @@
 
 /* ==================== BACKGROUND ==================== */
 html {
-  background-image: url('/Themes/AMPThemes/cybervoidx/bg.jpg') !important;
+  background-image: url('/Themes/AMPThemes/cybervoidx/bg.png') !important;
   background-size: cover !important;
   background-position: center center !important;
   background-attachment: fixed !important;
@@ -30,7 +30,7 @@ body::before {
   position: fixed;
   inset: 0;
   background: linear-gradient(rgba(6,6,18,0.85), rgba(6,6,18,0.92)),
-              url('/Themes/AMPThemes/cybervoidx/bg.jpg') center/cover fixed !important;
+              url('/Themes/AMPThemes/cybervoidx/bg.png') center/cover fixed !important;
   z-index: -2;
 }
 
